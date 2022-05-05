@@ -1,0 +1,3 @@
+Ferramenta feita para abrir e identificar os pedidos dos serviços mais requisitados na lanhouse que trabalhei. 
+
+Nele possui acesso rapido a pesquisa do google e serviços de segunda via para contas e ferramentas de serviços
